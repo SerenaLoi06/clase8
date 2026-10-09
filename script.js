@@ -2,7 +2,7 @@
             const tbodyEuropa = document.querySelector("#europa");
             const tbodyOtros = document.querySelector("#otros");
 
-            const ENDPOINT = "https://api.myjson.online/v1/records/4e81c4d7-f148-44fe-a419-679eaf21f69c";
+            const ENDPOINT = "https://api.myjson.online/v1/records/48ed42fb-964c-4fad-abd9-0835230ebc5c";
 
             const paisesAmerica = ["Argentina", "Brazil", "Canada", "Chile", "Colombia", "Mexico", "United States"];
             const paisesEuropa = ["Austria", "Belgium", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Ireland", "Italy", "Netherlands", "Sweden", "Switzerland", "United Kingdom"];
